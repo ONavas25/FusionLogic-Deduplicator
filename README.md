@@ -60,4 +60,4 @@ License
 📜 This project is protected under the Apache 2.0 License 👉 Proper attribution is required when used elsewhere
 
 Author & Contact
-💼 Developed by: Oscar 📧 Contact: oscarnavas863@gmail.com 🔗 GitHub Repository: https://github.com/ONavas25/FusionLogic-Deduplicator/
+💼 Developed by: Oscar Navas 📧 Contact: oscarnavas863@gmail.com 🔗 GitHub Repository: https://github.com/ONavas25/FusionLogic-Deduplicator/
