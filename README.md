@@ -1,65 +1,61 @@
-FusionLogic Deduplicator Search
-🚀 Advanced Deduplication & Validation Tool
+🚀 FusionLogic Deduplicator – Advanced Deduplication & Validation Tool
 
-Overview
-FusionLogic Deduplicator Search is a high-performance tool designed to efficiently clean, validate, and verify large datasets by detecting and removing redundant records.
+📌 Overview
 
-With scalability in mind, this project has successfully processed datasets of up to 200 million records, showcasing its real-world applicability in data-heavy environments.
+FusionLogic Deduplicator is a high-performance deduplication and validation tool, designed to efficiently clean, validate, and verify large datasets by detecting and removing redundant records.
 
-Key Features
-✔ High-Speed Deduplication
+This project was developed with AI-driven assistance, leveraging Microsoft Copilot to optimize code, refine debugging, enhance documentation, and improve performance across large dataset operations.
 
-Processes millions of records efficiently. ✔ Duplicate Extraction & Validation
+With scalability in mind, this project has successfully processed datasets up to 200 million records, demonstrating real-world applicability in data-heavy environments.
 
-Ensures accurate redundancy removal. ✔ Scalability Tested
+🧠 AI Integration with Copilot
 
-Validated with extreme dataset sizes. ✔ Memory Usage Optimization
+This project leveraged Microsoft Copilot AI for: 
+✔ Code refactoring and optimization 
+✔ Debugging and logic validation 
+✔ Automated documentation generation 
+✔ Performance tuning for large-scale deduplication
 
-Monitors system resources to prevent overload. ✔ User-Friendly CLI Interface
+🔹 Key Features:
+✔ High-Speed Deduplication – Processes millions of records efficiently 
+✔ Duplicate Extraction & Validation – Ensures accurate redundancy removal 
+✔ Scalability Tested – Validated with extreme dataset sizes 
+✔ Memory Usage Optimization – Monitors system resources to prevent overload 
+✔ User-Friendly CLI Interface – Simple menu-driven functionality 
+✔ Real-Time Execution Logs – Tracks processing status dynamically
 
-Simple menu-driven functionality. ✔ Real-Time Execution Logs
+🛠 Technologies Used:
+🔹 Programming Language: Python 
+🔹 Execution Environment: Local machine, large-scale dataset processing 
+🔹 Logging Framework: Built-in structured logging 
+🔹 AI Assistance: Microsoft Copilot for debugging & optimization 
+🔹 Version Control: GitHub Repository 
+🔹 License: Apache 2.0
 
-Tracks processing status dynamically.
+📌 Test Cases & Validation
+Rigorous validation conducted, including:
 
-Technologies Used
-🔹 Programming Language: Python 🔹 Execution Environment: Local machine, large-scale dataset processing 🔹 Logging Framework: Built-in structured logging 🔹 GitHub Repository License: Apache 2.0 License
+✅ Standard Execution Tests – Verified program functionality on typical datasets ✅ High-Duplicate Dataset Injection – Ensured accurate redundancy handling ✅ 200M Record Edge Case Test – Demonstrated scalability in real-world conditions
 
-Test Cases & Validation
-📌 Rigorous validation conducted, including:
-
-Standard Execution Tests
-
-Verified program functionality on typical datasets.
-
-High-Duplicate Dataset Injection
-
-Ensured accurate redundancy handling.
-
-200M Record Edge Case Test
-
-Demonstrated scalability in real-world conditions.
-
-Installation & Usage
-Step 1: Clone the Repository
+📥 Installation & Usage
+1️⃣ Clone the Repository
 bash
-git clone https://github.com/YOUR-USERNAME/FusionLogic-Deduplicator.git
+git clone https://github.com/ONavas25/FusionLogic-Deduplicator.git
 cd FusionLogic-Deduplicator
-Step 2: Run the Program
+2️⃣ Run the Program
 bash
 python deduplicator.py
-Step 3: Follow On-Screen Instructions
-Set working directory
+3️⃣ Follow On-Screen Instructions
 
-Choose deduplication method
+✔ Set working directory
+✔ Choose deduplication method 
+✔ Verify extracted duplicates and anomalies 
+✔ Execute spot checks and searches 
+✔ Rename and organize cleaned files
 
-Verify extracted duplicates and anomalies
 
-Execute spot checks and searches
+📜 License
+This project is protected under the Apache 2.0 License. 👉 Ensure proper attribution if used elsewhere.
 
-Rename and organize cleaned files
-
-License
-📜 This project is protected under the Apache 2.0 License. 👉 Ensure proper attribution if used elsewhere.
-
-Author & Contact
-💼 Developed by: Oscar 📧 Contact: [Your email or LinkedIn] 🔗 GitHub Repository: [Insert your GitHub link here]
+💼 Author & Contact
+✔ Developed by: Oscar Navas 📧 Contact: oscarnavas863@gmail.com 🔗 GitHub Repository: https://github.com/ONavas25/FusionLogic-Deduplicator
