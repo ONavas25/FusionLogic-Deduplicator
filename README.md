@@ -42,7 +42,7 @@ Demonstrated scalability in real-world conditions.
 Installation & Usage
 Step 1: Clone the Repository
 bash
-git clone https://github.com/YOUR-USERNAME/FusionLogic-Deduplicator.git
+git clone https://github.com/ONavas25/FusionLogic-Deduplicator.git
 cd FusionLogic-Deduplicator
 Step 2: Run the Program
 bash
@@ -62,4 +62,4 @@ License
 📜 This project is protected under the Apache 2.0 License. 👉 Ensure proper attribution if used elsewhere.
 
 Author & Contact
-💼 Developed by: Oscar 📧 Contact: [Your email or LinkedIn] 🔗 GitHub Repository: [Insert your GitHub link here]
+💼 Developed by: Oscar 📧 Contact: oscarnavas863@gmail.com 🔗 GitHub Repository: https://github.com/ONavas25/FusionLogic-Deduplicator/
